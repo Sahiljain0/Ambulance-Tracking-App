@@ -111,5 +111,4 @@ git commit -m 'Add new feature'
 git push origin feature/YourFeature
 
 # 6. Create a Pull Request
-# (Go to your repository on GitHub and open a pull request against the 'main' branch)
 
